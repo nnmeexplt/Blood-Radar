@@ -165,6 +165,17 @@ Both are required — the display won't work without them.
 - Added a feature? PRs welcome.
 - Upgraded to LD2450? Definitely open an issue — I want to see it.
 
+### If Blood Radar was useful, interesting, or just cool to look at — please **give it a star** on GitHub and **follow me** for more projects like this.
+
+- **Star this repo** — helps others find it
+- **Follow [@.nnmeexplt](https://github.com/nnmeexplt)** on GitHub — new projects every few weeks
+- **Follow [@.nnmeexplt](https://tiktok.com/@nnme.dev)** on TikTok — build videos, demos, and behind-the-scenes
+- **Check out [nnmestore](https://nnmestore.pages.dev)** — parts, kits, and finished builds
+
+**No pressure.** But if you want to see more builds, ESP32 projects, and embedded systems — following is the best way to stay updated.
+
+Thank you for checking out the project. 
+
 # 📄 LICENSE
 - MIT License — see LICENSE for details.
 - In short: do whatever you want, just credit the original project.
