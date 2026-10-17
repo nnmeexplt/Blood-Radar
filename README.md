@@ -125,12 +125,7 @@ Both are required — the display won't work without them.
 - Press **EN** to reboot the board
 - Look for the line: `IP ADDRESS: 192.168.1.42`
 
-**Method 2 — Router admin panel**
-- Open your router's admin page (usually `192.168.1.1`)
-- Look for connected devices
-- Find the device named `espressif` or `ESP32-C3`
-
-**Method 3 — Network scanner app**
+**Method 2 — Network scanner app**
 - Install **Fing** (Android/iOS) or **Advanced IP Scanner** (Windows)
 - Scan your network
 - Look for a device named `espressif` or `ESP32-C3`
