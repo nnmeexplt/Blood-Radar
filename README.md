@@ -98,7 +98,7 @@ Both are required — the display won't work without them.
 
 - ⚠️ Use a 2.4GHz WiFi network — the ESP32-C3 does not support 5GHz. 
 
-### 6. FLASH THE ESP32-C3
+### 5. FLASH THE ESP32-C3
 - Connect the board via USB
 - Click Upload in Arduino IDE (Might need to put the board in download mode: hold BOOT → press EN → release BOOT)
 - Wait for "Done uploading"
