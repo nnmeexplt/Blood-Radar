@@ -4,7 +4,7 @@
 # WHAT IS BLOOD RADAR?
 **Blood Radar** is a forward-range tactical sensor display built on the ESP32-C3Supermini. It measures distance with an HC-SR04 ultrasonic sensor, displays it as a cyberpunk radar interface on a 2.4" ST7789 TFT, serves a live phone dashboard over WiFi, and uses WiFi CSI (Channel State Information) as a rough room-motion indicator.
 
-**You don't even need the display to use it** — the TFT is optional. Without it, the ESP32-C3 boots straight to the web dashboard, and any phone, tablet, or computer on the same WiFi network can view the live radar at the ESP32's IP address.
+**You don't even need the display to use it** • the TFT is optional. Without it, the ESP32-C3 boots straight to the web dashboard, and any phone, tablet, or computer on the same WiFi network can view the live radar at the ESP32's IP address.
 #
 
 # FEATURES
