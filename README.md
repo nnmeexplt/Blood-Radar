@@ -70,6 +70,8 @@
   </a>
 </p>
 
+https://github.com/user-attachments/assets/9395ccf9-7263-414a-944b-676dff0798e5
+
 # SETUP
 
 ### 1. INSTALL ARDUINO IDE + ESP32 CORE
@@ -179,3 +181,5 @@ Thank you for checking out the project.
 # 📄 LICENSE
 - MIT License — see LICENSE for details.
 - In short: do whatever you want, just credit me and the original project.
+
+
