@@ -178,4 +178,4 @@ Thank you for checking out the project.
 
 # 📄 LICENSE
 - MIT License — see LICENSE for details.
-- In short: do whatever you want, just credit the original project.
+- In short: do whatever you want, just credit me and the original project.
