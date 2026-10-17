@@ -104,7 +104,7 @@ Both are required — the display won't work without them.
 - Wait for "Done uploading"
 - Press EN/RST to start the program
 
-# WEB DASHBOARD
+# 🌐 WEB DASHBOARD
 
 ### HOW TO ACCESS IT:
 - **Same WiFi network** (phone and ESP32 must be on the same 2.4GHz network)
@@ -130,16 +130,12 @@ Both are required — the display won't work without them.
 - Scan your network
 - Look for a device named `espressif` or `ESP32-C3`
 
-**Method 4 — Serial Monitor (no display)**
-- Same as Method 1 — works even if no TFT is connected
-- The IP is always printed after WiFi connects
-
 ### HOW TO OPEN IT:
 - Open any browser on your phone or computer
 - Type the IP address: `http://192.168.1.42`
 - The radar dashboard loads instantly
 - **Optional:** Add to home screen for one-tap access
-- 
+
 # ❌ WHAT IT CANNOT DO
 - Cannot accurately locate a person anywhere in the room
 - Cannot determine left/right position — the HC-SR04 is fixed forward-facing (Unless using better sensor)
@@ -160,15 +156,15 @@ Both are required — the display won't work without them.
 - Author: @.nnmeexplt
 - Inspiration: Classic radar displays, cyberpunk UI design, and the ESP32 CSI research community
 - Please leave a star on the project, aprecciate it
-- Tiktok : [@.nnmeexplt](https://tiktok.com/@nnme.dev)
-- SHOP   : [nnmestore](https://nnmestore.pages.dev) 
-
-# 📄 LICENSE
-- MIT License — see LICENSE for details.
-- In short: do whatever you want, just credit the original project.
+- Tiktok      : [@.nnmeexplt](https://tiktok.com/@nnme.dev)
+- Portfolio   : [nnmestore](https://nnmestore.pages.dev) 
 
 # ⭐ FOUND THIS USEFUL?
 - If you build one, tag me or open an issue with a photo. I'd love to see what people do with it.
 - Found a bug? Open an issue.
 - Added a feature? PRs welcome.
 - Upgraded to LD2450? Definitely open an issue — I want to see it.
+
+# 📄 LICENSE
+- MIT License — see LICENSE for details.
+- In short: do whatever you want, just credit the original project.
