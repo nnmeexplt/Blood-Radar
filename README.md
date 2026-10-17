@@ -70,8 +70,6 @@
   </a>
 </p>
 
-https://github.com/user-attachments/assets/9395ccf9-7263-414a-944b-676dff0798e5
-
 # SETUP
 
 ### 1. INSTALL ARDUINO IDE + ESP32 CORE
