@@ -55,6 +55,11 @@
 **⚠️ About the voltage divider:** The HC-SR04 ECHO pin outputs 5V. The ESP32-C3 GPIO is 3.3V tolerant. Without a divider, the GPIO's internal protection diode slowly degrades over months. It works short-term but isn't safe long-term.
 
 # PREVIEW
+<p align="center">
+  <a href="https://www.tiktok.com/@nnme.dev/video/7680078423305309462">
+    <b>•VIDEO PREVIEW OF HOW IT LOOKS AND WORKS ON MY TIKTOK PROFILE•🎬</b>
+  </a>
+</p>
 <img width="1280" height="832" alt="Gemini_Generated_Image_gnqj3dgnqj3dgnqj" src="https://github.com/user-attachments/assets/7cca731c-4797-4e6b-b252-c2165b3e2b30" />
 •         
 <p align="center">
