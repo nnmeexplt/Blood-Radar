@@ -60,7 +60,7 @@
     <b>•VIDEO PREVIEW OF HOW IT LOOKS AND WORKS ON MY TIKTOK PROFILE•🎬</b>
   </a>
 </p>
-<img width="1280" height="832" alt="Gemini_Generated_Image_gnqj3dgnqj3dgnqj" src="https://github.com/user-attachments/assets/7cca731c-4797-4e6b-b252-c2165b3e2b30" />
+<img width="1193" height="710" alt="schematic connection" src="https://github.com/user-attachments/assets/bc119cc4-8c3f-4216-8562-fcd654e6c715" />
 •         
 <p align="center">
   <a href="https://www.tiktok.com/@nnme.dev/video/7680078423305309462">
@@ -68,7 +68,7 @@
   </a>
 </p>
 •         
-<img width="1193" height="710" alt="schematic connection" src="https://github.com/user-attachments/assets/bc119cc4-8c3f-4216-8562-fcd654e6c715" />
+<img width="1280" height="832" alt="Gemini_Generated_Image_gnqj3dgnqj3dgnqj" src="https://github.com/user-attachments/assets/7cca731c-4797-4e6b-b252-c2165b3e2b30" />
 
 
 <p align="center">
