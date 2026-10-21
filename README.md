@@ -68,7 +68,7 @@
   </a>
 </p>
 •         
-<img width="1193" height="710" alt="schematic connection" src="https://github.com/user-attachments/assets/1a577bdf-5f5b-4176-a5c9-6be78989beef" />
+
 
 <p align="center">
   <a href="https://www.tiktok.com/@nnme.dev/video/7680078423305309462">
