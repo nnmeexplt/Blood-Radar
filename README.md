@@ -68,7 +68,8 @@
   </a>
 </p>
 •         
-<img width="1341" height="784" alt="Gemini_Generated_Image_s6xrkis6xrkis6xr" src="https://github.com/user-attachments/assets/81cf6777-6dcc-400b-8259-8a72ad79ad13" />
+<img width="1193" height="710" alt="schematic connection" src="https://github.com/user-attachments/assets/1a577bdf-5f5b-4176-a5c9-6be78989beef" />
+
 <p align="center">
   <a href="https://www.tiktok.com/@nnme.dev/video/7680078423305309462">
     <b>•VIDEO PREVIEW OF HOW IT LOOKS AND WORKS ON MY TIKTOK PROFILE•🎬</b>
