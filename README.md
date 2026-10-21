@@ -68,6 +68,7 @@
   </a>
 </p>
 •         
+<img width="1193" height="710" alt="schematic connection" src="https://github.com/user-attachments/assets/bc119cc4-8c3f-4216-8562-fcd654e6c715" />
 
 
 <p align="center">
